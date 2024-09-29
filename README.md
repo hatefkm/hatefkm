@@ -17,7 +17,7 @@
 <img width="60px" src="https://github.com/user-attachments/assets/cd58d386-b1a7-426d-9a4a-112492c9b530">
 </a>
 <!-- linkdin icon -->
-<a href="www.linkedin.com/in/hatef-karimi-397536199">
+<a href="https://www.linkedin.com/in/hatef-karimi-397536199">
 <img width="60px" src="https://github.com/user-attachments/assets/ef11c723-7463-49f2-96c8-311d8b067e83">
 </a>
 <!-- whatsapp icon -->
